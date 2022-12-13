@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para-sug {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #475569;
+}
+.arrow {
+  height: 22px;
+  width: 22px;
+  padding: 0px;
+  margin: 0px;
+}
